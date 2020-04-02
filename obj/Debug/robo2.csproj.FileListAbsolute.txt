@@ -1,0 +1,12 @@
+D:\PROJETOS\VISUALSTUDIO\udemy\operacoes\autoitteste1\robo2\bin\Debug\AutoItX3.dll
+D:\PROJETOS\VISUALSTUDIO\udemy\operacoes\autoitteste1\robo2\bin\Debug\AutoItX3_x64.dll
+D:\PROJETOS\VISUALSTUDIO\udemy\operacoes\autoitteste1\robo2\bin\Debug\robo2.exe.config
+D:\PROJETOS\VISUALSTUDIO\udemy\operacoes\autoitteste1\robo2\bin\Debug\robo2.exe
+D:\PROJETOS\VISUALSTUDIO\udemy\operacoes\autoitteste1\robo2\bin\Debug\robo2.pdb
+D:\PROJETOS\VISUALSTUDIO\udemy\operacoes\autoitteste1\robo2\bin\Debug\AutoItX3.Assembly.dll
+D:\PROJETOS\VISUALSTUDIO\udemy\operacoes\autoitteste1\robo2\bin\Debug\AutoItX3.Assembly.xml
+D:\PROJETOS\VISUALSTUDIO\udemy\operacoes\autoitteste1\robo2\obj\Debug\robo2.csprojAssemblyReference.cache
+D:\PROJETOS\VISUALSTUDIO\udemy\operacoes\autoitteste1\robo2\obj\Debug\robo2.csproj.CoreCompileInputs.cache
+D:\PROJETOS\VISUALSTUDIO\udemy\operacoes\autoitteste1\robo2\obj\Debug\robo2.csproj.CopyComplete
+D:\PROJETOS\VISUALSTUDIO\udemy\operacoes\autoitteste1\robo2\obj\Debug\robo2.exe
+D:\PROJETOS\VISUALSTUDIO\udemy\operacoes\autoitteste1\robo2\obj\Debug\robo2.pdb
